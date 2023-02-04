@@ -1,0 +1,760 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\USER\MyKicadProjects\EPSmppt\MpptDemoBoard\MpptDemoBoard.kicad_sch</source>
+    <date>2/4/2023 7:46:15 AM</date>
+    <tool>Eeschema (6.0.10)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>MpptDemoBoard.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>GRM21BR61C106KE15K</value>
+      <footprint>myfootprints:GRM21BR61C106KE15K</footprint>
+      <datasheet>https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/6b1fcc509e213c6e898acd502ec19ade.pdf</datasheet>
+      <fields>
+        <field name="Cvalue">10uF</field>
+        <field name="Description">Murata, 0805 (2012M) 10uF Multilayer Ceramic Capacitor MLCC 16V dc +/-10% , SMD GRM21BR61C106KE15K</field>
+        <field name="Height">1.35</field>
+        <field name="Manufacturer_Name">Murata Electronics</field>
+        <field name="Manufacturer_Part_Number">GRM21BR61C106KE15K</field>
+        <field name="Mouser Part Number">81-GRM21BR61C106KE5K</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GRM21BR61C106KE15K?qs=h0WOCFF19ULjTOS37upAEw%3D%3D</field>
+      </fields>
+      <libsource lib="GRM21BR61C106KE15K" part="GRM21BR61C106KE15K" description=""/>
+      <property name="Description" value="Murata, 0805 (2012M) 10uF Multilayer Ceramic Capacitor MLCC 16V dc +/-10% , SMD GRM21BR61C106KE15K"/>
+      <property name="Height" value="1.35"/>
+      <property name="Mouser Part Number" value="81-GRM21BR61C106KE5K"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GRM21BR61C106KE15K?qs=h0WOCFF19ULjTOS37upAEw%3D%3D"/>
+      <property name="Manufacturer_Name" value="Murata Electronics"/>
+      <property name="Manufacturer_Part_Number" value="GRM21BR61C106KE15K"/>
+      <property name="Cvalue" value="10uF"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MpptDemoBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>31f2f55e-c4a1-42fe-8da8-76dbfe7dff80</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>C2012C0G1H102J060AA</value>
+      <footprint>myfootprints:C2012C0G1H102J060AA</footprint>
+      <datasheet>https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_commercial_general_en.pdf</datasheet>
+      <fields>
+        <field name="Cvalue">1nF</field>
+        <field name="Description">MULTILAYER CERAMIC CHIP CAPACITORS, 2012, Commercial grade, general (Up to 75V)</field>
+        <field name="Height">0.75</field>
+        <field name="Manufacturer_Name">TDK</field>
+        <field name="Manufacturer_Part_Number">C2012C0G1H102J060AA</field>
+        <field name="Mouser Part Number">810-C2012C0G1H102J</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/TDK/C2012C0G1H102J060AA?qs=NRhsANhppD9Yg5ECRql%2Fwg%3D%3D</field>
+      </fields>
+      <libsource lib="C2012C0G1H102J060AA" part="C2012C0G1H102J060AA" description=""/>
+      <property name="Description" value="MULTILAYER CERAMIC CHIP CAPACITORS, 2012, Commercial grade, general (Up to 75V)"/>
+      <property name="Height" value="0.75"/>
+      <property name="Mouser Part Number" value="810-C2012C0G1H102J"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/TDK/C2012C0G1H102J060AA?qs=NRhsANhppD9Yg5ECRql%2Fwg%3D%3D"/>
+      <property name="Manufacturer_Name" value="TDK"/>
+      <property name="Manufacturer_Part_Number" value="C2012C0G1H102J060AA"/>
+      <property name="Cvalue" value="1nF"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MpptDemoBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e9bf84db-48e8-4eb2-9a6f-c04cfba63bbe</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>GRM32ER71A226KE20L</value>
+      <footprint>myfootprints:GRM32ER71A226KE20L</footprint>
+      <datasheet>http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM32ER71A226KE20-01.pdf</datasheet>
+      <fields>
+        <field name="Cvalue">22uF</field>
+        <field name="Description">Murata 1210 GRM 22uF Ceramic Multilayer Capacitor, 10 V dc, +125C, X7R Dielectric, +/-10%</field>
+        <field name="Height">2.7</field>
+        <field name="Manufacturer_Name">Murata Electronics</field>
+        <field name="Manufacturer_Part_Number">GRM32ER71A226KE20L</field>
+        <field name="Mouser Part Number">81-GRM32R71A226KE20L</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GRM32ER71A226KE20L?qs=IjyrXs0Hof%252B8BiTJdBCHXw%3D%3D</field>
+      </fields>
+      <libsource lib="GRM32ER71A226KE20L" part="GRM32ER71A226KE20L" description=""/>
+      <property name="Description" value="Murata 1210 GRM 22uF Ceramic Multilayer Capacitor, 10 V dc, +125C, X7R Dielectric, +/-10%"/>
+      <property name="Height" value="2.7"/>
+      <property name="Mouser Part Number" value="81-GRM32R71A226KE20L"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GRM32ER71A226KE20L?qs=IjyrXs0Hof%252B8BiTJdBCHXw%3D%3D"/>
+      <property name="Manufacturer_Name" value="Murata Electronics"/>
+      <property name="Manufacturer_Part_Number" value="GRM32ER71A226KE20L"/>
+      <property name="Cvalue" value="22uF"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MpptDemoBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>af9bcf2a-b2a7-4bb4-9131-c529fc816ac6</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>C2012X7R1C105K125AA</value>
+      <footprint>myfootprints:C2012X7R1C105K125AA</footprint>
+      <datasheet>https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_commercial_general_en.pdf</datasheet>
+      <fields>
+        <field name="Cvalue">1uF</field>
+        <field name="Description">0805 X7R ceramic capacitor 16V 1uF TDK C2012 C 1uF Ceramic Multilayer Capacitor, 16 V dc X7R Dielectric +/-10% SMD</field>
+        <field name="Height">0.75</field>
+        <field name="Manufacturer_Name">TDK</field>
+        <field name="Manufacturer_Part_Number">C2012X7R1C105K125AA</field>
+        <field name="Mouser Part Number">810-C2012X7R1C105K-3</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/TDK/C2012X7R1C105K125AA?qs=LcTL%2F5vFEzETx%252Br1yx%252BqAw%3D%3D</field>
+      </fields>
+      <libsource lib="C2012X7R1C105K125AA" part="C2012X7R1C105K125AA" description=""/>
+      <property name="Description" value="0805 X7R ceramic capacitor 16V 1uF TDK C2012 C 1uF Ceramic Multilayer Capacitor, 16 V dc X7R Dielectric +/-10% SMD"/>
+      <property name="Height" value="0.75"/>
+      <property name="Mouser Part Number" value="810-C2012X7R1C105K-3"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/TDK/C2012X7R1C105K125AA?qs=LcTL%2F5vFEzETx%252Br1yx%252BqAw%3D%3D"/>
+      <property name="Manufacturer_Name" value="TDK"/>
+      <property name="Manufacturer_Part_Number" value="C2012X7R1C105K125AA"/>
+      <property name="Cvalue" value="1uF"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MpptDemoBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9d6354f3-3234-4ca9-88c3-bc940531b247</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>C2012C0G1H102J060AA</value>
+      <footprint>myfootprints:C2012C0G1H102J060AA</footprint>
+      <datasheet>https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_commercial_general_en.pdf</datasheet>
+      <fields>
+        <field name="Cvalue">1nF</field>
+        <field name="Description">MULTILAYER CERAMIC CHIP CAPACITORS, 2012, Commercial grade, general (Up to 75V)</field>
+        <field name="Height">0.75</field>
+        <field name="Manufacturer_Name">TDK</field>
+        <field name="Manufacturer_Part_Number">C2012C0G1H102J060AA</field>
+        <field name="Mouser Part Number">810-C2012C0G1H102J</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/TDK/C2012C0G1H102J060AA?qs=NRhsANhppD9Yg5ECRql%2Fwg%3D%3D</field>
+      </fields>
+      <libsource lib="C2012C0G1H102J060AA" part="C2012C0G1H102J060AA" description=""/>
+      <property name="Description" value="MULTILAYER CERAMIC CHIP CAPACITORS, 2012, Commercial grade, general (Up to 75V)"/>
+      <property name="Height" value="0.75"/>
+      <property name="Mouser Part Number" value="810-C2012C0G1H102J"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/TDK/C2012C0G1H102J060AA?qs=NRhsANhppD9Yg5ECRql%2Fwg%3D%3D"/>
+      <property name="Manufacturer_Name" value="TDK"/>
+      <property name="Manufacturer_Part_Number" value="C2012C0G1H102J060AA"/>
+      <property name="Cvalue" value="1nF"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MpptDemoBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9609bb9f-a8e3-4d3e-a089-81a824f2da39</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>STPS120MF</value>
+      <footprint>myfootprints:STPS120MF</footprint>
+      <datasheet>https://www.st.com/resource/en/datasheet/stps120mf.pdf</datasheet>
+      <fields>
+        <field name="Description">Schottky Diodes &amp; Rectifiers Power Schottky Rec 1A 20V 0.41VF</field>
+        <field name="Manufacturer_Name">STMicroelectronics</field>
+        <field name="Manufacturer_Part_Number">STPS120MF</field>
+        <field name="Mouser Part Number">511-STPS120MF</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/STMicroelectronics/STPS120MF?qs=vV0pr1uq7fBNdZQwvvztWg%3D%3D</field>
+      </fields>
+      <libsource lib="STPS120MF" part="STPS120MF" description=""/>
+      <property name="Description" value="Schottky Diodes &amp; Rectifiers Power Schottky Rec 1A 20V 0.41VF"/>
+      <property name="Height" value=""/>
+      <property name="Mouser Part Number" value="511-STPS120MF"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/STMicroelectronics/STPS120MF?qs=vV0pr1uq7fBNdZQwvvztWg%3D%3D"/>
+      <property name="Manufacturer_Name" value="STMicroelectronics"/>
+      <property name="Manufacturer_Part_Number" value="STPS120MF"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MpptDemoBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c5ef3ad7-975e-4299-aab8-a87cbd45e466</tstamps>
+    </comp>
+    <comp ref="IC1">
+      <value>SPV1040T</value>
+      <footprint>myfootprints:SPV1040T</footprint>
+      <fields>
+        <field name="Description">Voltage Regulators - Switching Regulators Hi efficiency solar battery charger</field>
+        <field name="Height">1.2</field>
+        <field name="Manufacturer_Name">STMicroelectronics</field>
+        <field name="Manufacturer_Part_Number">SPV1040T</field>
+        <field name="Mouser Part Number">511-SPV1040T</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/STMicroelectronics/SPV1040T?qs=7qOP6AeGKU1lga8RjcaFUQ%3D%3D</field>
+      </fields>
+      <libsource lib="SPV1040T" part="SPV1040T" description=""/>
+      <property name="Description" value="Voltage Regulators - Switching Regulators Hi efficiency solar battery charger"/>
+      <property name="Height" value="1.2"/>
+      <property name="Mouser Part Number" value="511-SPV1040T"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/STMicroelectronics/SPV1040T?qs=7qOP6AeGKU1lga8RjcaFUQ%3D%3D"/>
+      <property name="Manufacturer_Name" value="STMicroelectronics"/>
+      <property name="Manufacturer_Part_Number" value="SPV1040T"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MpptDemoBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a1dfbfca-1dc4-4899-b8bb-b26537771ef9</tstamps>
+    </comp>
+    <comp ref="L1">
+      <value>SRU1038-100Y</value>
+      <footprint>myfootprints:SRU1038-100Y</footprint>
+      <fields>
+        <field name="Lvalue">10uH</field>
+      </fields>
+      <libsource lib="SRU1038-100Y" part="SRU1038-100Y" description=""/>
+      <property name="Lvalue" value="10uH"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MpptDemoBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>749bf6d1-0a83-4a40-acef-ba68ded8420e</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>ERA-1AEB102C</value>
+      <footprint>myfootprints:ERA-1AEB102C</footprint>
+      <datasheet>http://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/AOA0000C307.pdf</datasheet>
+      <fields>
+        <field name="Description">Thin Film Resistors - SMD 0201 1Kohm 0.1% 25ppm</field>
+        <field name="Height">0.26</field>
+        <field name="Manufacturer_Name">Panasonic</field>
+        <field name="Manufacturer_Part_Number">ERA-1AEB102C</field>
+        <field name="Mouser Part Number">667-ERA-1AEB102C</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Panasonic/ERA-1AEB102C?qs=6%252Bc%252B2ke79U6BeTXQY2Cvbw%3D%3D</field>
+        <field name="Rvalue">1k</field>
+      </fields>
+      <libsource lib="ERA-1AEB102C" part="ERA-1AEB102C" description=""/>
+      <property name="Description" value="Thin Film Resistors - SMD 0201 1Kohm 0.1% 25ppm"/>
+      <property name="Height" value="0.26"/>
+      <property name="Mouser Part Number" value="667-ERA-1AEB102C"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Panasonic/ERA-1AEB102C?qs=6%252Bc%252B2ke79U6BeTXQY2Cvbw%3D%3D"/>
+      <property name="Manufacturer_Name" value="Panasonic"/>
+      <property name="Manufacturer_Part_Number" value="ERA-1AEB102C"/>
+      <property name="Rvalue" value="1k"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MpptDemoBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>af37f6ed-4a5d-499d-be2c-df169012ff90</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>ERA-1AEB102C</value>
+      <footprint>myfootprints:ERA-1AEB102C</footprint>
+      <datasheet>http://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/AOA0000C307.pdf</datasheet>
+      <fields>
+        <field name="Description">Thin Film Resistors - SMD 0201 1Kohm 0.1% 25ppm</field>
+        <field name="Height">0.26</field>
+        <field name="Manufacturer_Name">Panasonic</field>
+        <field name="Manufacturer_Part_Number">ERA-1AEB102C</field>
+        <field name="Mouser Part Number">667-ERA-1AEB102C</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Panasonic/ERA-1AEB102C?qs=6%252Bc%252B2ke79U6BeTXQY2Cvbw%3D%3D</field>
+        <field name="Rvalue">1k</field>
+      </fields>
+      <libsource lib="ERA-1AEB102C" part="ERA-1AEB102C" description=""/>
+      <property name="Description" value="Thin Film Resistors - SMD 0201 1Kohm 0.1% 25ppm"/>
+      <property name="Height" value="0.26"/>
+      <property name="Mouser Part Number" value="667-ERA-1AEB102C"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Panasonic/ERA-1AEB102C?qs=6%252Bc%252B2ke79U6BeTXQY2Cvbw%3D%3D"/>
+      <property name="Manufacturer_Name" value="Panasonic"/>
+      <property name="Manufacturer_Part_Number" value="ERA-1AEB102C"/>
+      <property name="Rvalue" value="1k"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MpptDemoBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b93783d7-6b77-4f56-a30d-47ff479e2edc</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>ERA-1AEB102C</value>
+      <footprint>myfootprints:ERA-1AEB102C</footprint>
+      <datasheet>http://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/AOA0000C307.pdf</datasheet>
+      <fields>
+        <field name="Description">Thin Film Resistors - SMD 0201 1Kohm 0.1% 25ppm</field>
+        <field name="Height">0.26</field>
+        <field name="Manufacturer_Name">Panasonic</field>
+        <field name="Manufacturer_Part_Number">ERA-1AEB102C</field>
+        <field name="Mouser Part Number">667-ERA-1AEB102C</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Panasonic/ERA-1AEB102C?qs=6%252Bc%252B2ke79U6BeTXQY2Cvbw%3D%3D</field>
+        <field name="Rvalue">1k</field>
+      </fields>
+      <libsource lib="ERA-1AEB102C" part="ERA-1AEB102C" description=""/>
+      <property name="Description" value="Thin Film Resistors - SMD 0201 1Kohm 0.1% 25ppm"/>
+      <property name="Height" value="0.26"/>
+      <property name="Mouser Part Number" value="667-ERA-1AEB102C"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Panasonic/ERA-1AEB102C?qs=6%252Bc%252B2ke79U6BeTXQY2Cvbw%3D%3D"/>
+      <property name="Manufacturer_Name" value="Panasonic"/>
+      <property name="Manufacturer_Part_Number" value="ERA-1AEB102C"/>
+      <property name="Rvalue" value="1k"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MpptDemoBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8cf2f6ad-9f34-498a-8250-403f802f614f</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>WSL2010R1100FEA</value>
+      <footprint>myfootprints:WSL2010R1100FEA</footprint>
+      <datasheet>https://www.vishay.com/docs/30100/wsl.pdf</datasheet>
+      <fields>
+        <field name="Description">Vishay 110m 2010 (5025M) Metal Strip SMD Resistor +/-1% 0.5W - WSL2010R1100FEA</field>
+        <field name="Height">0.889</field>
+        <field name="Manufacturer_Name">Vishay</field>
+        <field name="Manufacturer_Part_Number">WSL2010R1100FEA</field>
+        <field name="Mouser Part Number">71-WSL2010R1100FEA</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Vishay-Dale/WSL2010R1100FEA?qs=8hzcSBZN9d%252BMooM1LU7mjg%3D%3D</field>
+        <field name="Rvalue">110m</field>
+      </fields>
+      <libsource lib="WSL2010R1100FEA" part="WSL2010R1100FEA" description=""/>
+      <property name="Description" value="Vishay 110m 2010 (5025M) Metal Strip SMD Resistor +/-1% 0.5W - WSL2010R1100FEA"/>
+      <property name="Height" value="0.889"/>
+      <property name="Mouser Part Number" value="71-WSL2010R1100FEA"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Vishay-Dale/WSL2010R1100FEA?qs=8hzcSBZN9d%252BMooM1LU7mjg%3D%3D"/>
+      <property name="Manufacturer_Name" value="Vishay"/>
+      <property name="Manufacturer_Part_Number" value="WSL2010R1100FEA"/>
+      <property name="Rvalue" value="110m"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MpptDemoBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>01adb842-3894-40db-83a4-a2c109d43a3f</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>CMP2512-FX-3903ELF</value>
+      <footprint>myfootprints:CMP2512-FX-3903ELF</footprint>
+      <datasheet>https://www.bourns.com/docs/Product-Datasheets/CMP.pdf</datasheet>
+      <fields>
+        <field name="Description">Thick Film Resistors - SMD ResHighPower 2512 390k 1% 1.5W TC100</field>
+        <field name="Height">0.75</field>
+        <field name="Manufacturer_Name">Bourns</field>
+        <field name="Manufacturer_Part_Number">CMP2512-FX-3903ELF</field>
+        <field name="Mouser Part Number">652-CMP2512-FX-3903L</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Bourns/CMP2512-FX-3903ELF?qs=TiOZkKH1s2Qkwis624hFDA%3D%3D</field>
+        <field name="Rvalue">390k</field>
+      </fields>
+      <libsource lib="CMP2512-FX-3903ELF" part="CMP2512-FX-3903ELF" description=""/>
+      <property name="Description" value="Thick Film Resistors - SMD ResHighPower 2512 390k 1% 1.5W TC100"/>
+      <property name="Height" value="0.75"/>
+      <property name="Mouser Part Number" value="652-CMP2512-FX-3903L"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Bourns/CMP2512-FX-3903ELF?qs=TiOZkKH1s2Qkwis624hFDA%3D%3D"/>
+      <property name="Manufacturer_Name" value="Bourns"/>
+      <property name="Manufacturer_Part_Number" value="CMP2512-FX-3903ELF"/>
+      <property name="Rvalue" value="390k"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MpptDemoBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>19baf9f7-1142-4b5f-ae1f-4d68c442ef95</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>ERJ-UP3F1303V</value>
+      <footprint>myfootprints:ERJ-UP3F1303V</footprint>
+      <datasheet>https://industrial.panasonic.com/cdbs/www-data/pdf/RDP0000/AOA0000C337.pdf</datasheet>
+      <fields>
+        <field name="Description">Anti-Sulfurated Thick Film Chip Resistors/ Anti-Surge Type, Power Rating (W): 0.25, Chip Size (LxW(EIA)) (mm): 1.6 x 0.8 (EIA:0603), Resistance Values (?): 130000, Resistance Tolerance (%): 1, T.C.R (?102/K): ?100</field>
+        <field name="Height">0.55</field>
+        <field name="Manufacturer_Name">Panasonic</field>
+        <field name="Manufacturer_Part_Number">ERJ-UP3F1303V</field>
+        <field name="Mouser Part Number">667-ERJ-UP3F1303V</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Panasonic/ERJ-UP3F1303V?qs=GedFDFLaBXFCBofrml0vWw%3D%3D</field>
+        <field name="Rvalue">130k</field>
+      </fields>
+      <libsource lib="ERJ-UP3F1303V" part="ERJ-UP3F1303V" description=""/>
+      <property name="Description" value="Anti-Sulfurated Thick Film Chip Resistors/ Anti-Surge Type, Power Rating (W): 0.25, Chip Size (LxW(EIA)) (mm): 1.6 x 0.8 (EIA:0603), Resistance Values (?): 130000, Resistance Tolerance (%): 1, T.C.R (?102/K): ?100"/>
+      <property name="Height" value="0.55"/>
+      <property name="Mouser Part Number" value="667-ERJ-UP3F1303V"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Panasonic/ERJ-UP3F1303V?qs=GedFDFLaBXFCBofrml0vWw%3D%3D"/>
+      <property name="Manufacturer_Name" value="Panasonic"/>
+      <property name="Manufacturer_Part_Number" value="ERJ-UP3F1303V"/>
+      <property name="Rvalue" value="130k"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MpptDemoBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>03911296-d5a9-4d0a-be0e-e2227fea4a3a</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>282837-2</value>
+      <footprint>myfootprints:282837-2</footprint>
+      <libsource lib="282837-2" part="282837-2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MpptDemoBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>49ce1554-cba8-4ef0-8e12-cf083d9263af</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>282837-2</value>
+      <footprint>myfootprints:282837-2</footprint>
+      <libsource lib="282837-2" part="282837-2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MpptDemoBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3ef90c6b-14a5-4d24-b8f7-3252df367aab</tstamps>
+    </comp>
+    <comp ref="Z1">
+      <value>SMM4F5.0A-TR</value>
+      <footprint>myfootprints:SMM4F5.0A-TR</footprint>
+      <datasheet>https://www.st.com/resource/en/datasheet/smm4f10a.pdf</datasheet>
+      <fields>
+        <field name="Description">ESD Suppressors / TVS Diodes 400W HI JCT TMP</field>
+        <field name="Manufacturer_Name">STMicroelectronics</field>
+        <field name="Manufacturer_Part_Number">SMM4F5.0A-TR</field>
+        <field name="Mouser Part Number">511-SMM4F5.0A-TR</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/STMicroelectronics/SMM4F5.0A-TR?qs=5HwTSiuA5HB7K7mI4EswPg%3D%3D</field>
+      </fields>
+      <libsource lib="SMM4F5.0A-TR" part="SMM4F5.0A-TR" description=""/>
+      <property name="Description" value="ESD Suppressors / TVS Diodes 400W HI JCT TMP"/>
+      <property name="Height" value=""/>
+      <property name="Mouser Part Number" value="511-SMM4F5.0A-TR"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/STMicroelectronics/SMM4F5.0A-TR?qs=5HwTSiuA5HB7K7mI4EswPg%3D%3D"/>
+      <property name="Manufacturer_Name" value="STMicroelectronics"/>
+      <property name="Manufacturer_Part_Number" value="SMM4F5.0A-TR"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MpptDemoBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>477f4dd5-5d09-45ef-9cbb-c71991b86aa1</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="282837-2" part="282837-2">
+      <footprints>
+        <fp>282837-2_TYC</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">282837-2</field>
+        <field name="Footprint">282837-2_TYC</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="unspecified"/>
+        <pin num="2" name="2" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="C2012C0G1H102J060AA" part="C2012C0G1H102J060AA">
+      <docs>https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_commercial_general_en.pdf</docs>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C2012C0G1H102J060AA</field>
+        <field name="Footprint">C2012_Commercial</field>
+        <field name="Datasheet">https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_commercial_general_en.pdf</field>
+        <field name="Description">MULTILAYER CERAMIC CHIP CAPACITORS, 2012, Commercial grade, general (Up to 75V)</field>
+        <field name="Height">0.75</field>
+        <field name="Mouser Part Number">810-C2012C0G1H102J</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/TDK/C2012C0G1H102J060AA?qs=NRhsANhppD9Yg5ECRql%2Fwg%3D%3D</field>
+        <field name="Manufacturer_Name">TDK</field>
+        <field name="Manufacturer_Part_Number">C2012C0G1H102J060AA</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="C2012X7R1C105K125AA" part="C2012X7R1C105K125AA">
+      <docs>https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_commercial_general_en.pdf</docs>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C2012X7R1C105K125AA</field>
+        <field name="Footprint">C2012_Commercial</field>
+        <field name="Datasheet">https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_commercial_general_en.pdf</field>
+        <field name="Description">0805 X7R ceramic capacitor 16V 1uF TDK C2012 C 1uF Ceramic Multilayer Capacitor, 16 V dc X7R Dielectric +/-10% SMD</field>
+        <field name="Height">0.75</field>
+        <field name="Mouser Part Number">810-C2012X7R1C105K-3</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/TDK/C2012X7R1C105K125AA?qs=LcTL%2F5vFEzETx%252Br1yx%252BqAw%3D%3D</field>
+        <field name="Manufacturer_Name">TDK</field>
+        <field name="Manufacturer_Part_Number">C2012X7R1C105K125AA</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="CMP2512-FX-3903ELF" part="CMP2512-FX-3903ELF">
+      <docs>https://www.bourns.com/docs/Product-Datasheets/CMP.pdf</docs>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">CMP2512-FX-3903ELF</field>
+        <field name="Footprint">RESC6431X75N</field>
+        <field name="Datasheet">https://www.bourns.com/docs/Product-Datasheets/CMP.pdf</field>
+        <field name="Description">Thick Film Resistors - SMD ResHighPower 2512 390k 1% 1.5W TC100</field>
+        <field name="Height">0.75</field>
+        <field name="Mouser Part Number">652-CMP2512-FX-3903L</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Bourns/CMP2512-FX-3903ELF?qs=TiOZkKH1s2Qkwis624hFDA%3D%3D</field>
+        <field name="Manufacturer_Name">Bourns</field>
+        <field name="Manufacturer_Part_Number">CMP2512-FX-3903ELF</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ERA-1AEB102C" part="ERA-1AEB102C">
+      <docs>http://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/AOA0000C307.pdf</docs>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">ERA-1AEB102C</field>
+        <field name="Footprint">ERA1A_(0201)</field>
+        <field name="Datasheet">http://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/AOA0000C307.pdf</field>
+        <field name="Description">Thin Film Resistors - SMD 0201 1Kohm 0.1% 25ppm</field>
+        <field name="Height">0.26</field>
+        <field name="Mouser Part Number">667-ERA-1AEB102C</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Panasonic/ERA-1AEB102C?qs=6%252Bc%252B2ke79U6BeTXQY2Cvbw%3D%3D</field>
+        <field name="Manufacturer_Name">Panasonic</field>
+        <field name="Manufacturer_Part_Number">ERA-1AEB102C</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ERJ-UP3F1303V" part="ERJ-UP3F1303V">
+      <docs>https://industrial.panasonic.com/cdbs/www-data/pdf/RDP0000/AOA0000C337.pdf</docs>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">ERJ-UP3F1303V</field>
+        <field name="Footprint">ERJUP3</field>
+        <field name="Datasheet">https://industrial.panasonic.com/cdbs/www-data/pdf/RDP0000/AOA0000C337.pdf</field>
+        <field name="Description">Anti-Sulfurated Thick Film Chip Resistors/ Anti-Surge Type, Power Rating (W): 0.25, Chip Size (LxW(EIA)) (mm): 1.6 x 0.8 (EIA:0603), Resistance Values (?): 130000, Resistance Tolerance (%): 1, T.C.R (?102/K): ?100</field>
+        <field name="Height">0.55</field>
+        <field name="Mouser Part Number">667-ERJ-UP3F1303V</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Panasonic/ERJ-UP3F1303V?qs=GedFDFLaBXFCBofrml0vWw%3D%3D</field>
+        <field name="Manufacturer_Name">Panasonic</field>
+        <field name="Manufacturer_Part_Number">ERJ-UP3F1303V</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="GRM21BR61C106KE15K" part="GRM21BR61C106KE15K">
+      <docs>https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/6b1fcc509e213c6e898acd502ec19ade.pdf</docs>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">GRM21BR61C106KE15K</field>
+        <field name="Footprint">CAPC2012X135N</field>
+        <field name="Datasheet">https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/6b1fcc509e213c6e898acd502ec19ade.pdf</field>
+        <field name="Description">Murata, 0805 (2012M) 10uF Multilayer Ceramic Capacitor MLCC 16V dc +/-10% , SMD GRM21BR61C106KE15K</field>
+        <field name="Height">1.35</field>
+        <field name="Mouser Part Number">81-GRM21BR61C106KE5K</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GRM21BR61C106KE15K?qs=h0WOCFF19ULjTOS37upAEw%3D%3D</field>
+        <field name="Manufacturer_Name">Murata Electronics</field>
+        <field name="Manufacturer_Part_Number">GRM21BR61C106KE15K</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="GRM32ER71A226KE20L" part="GRM32ER71A226KE20L">
+      <docs>http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM32ER71A226KE20-01.pdf</docs>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">GRM32ER71A226KE20L</field>
+        <field name="Footprint">CAPC3225X270N</field>
+        <field name="Datasheet">http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM32ER71A226KE20-01.pdf</field>
+        <field name="Description">Murata 1210 GRM 22uF Ceramic Multilayer Capacitor, 10 V dc, +125C, X7R Dielectric, +/-10%</field>
+        <field name="Height">2.7</field>
+        <field name="Mouser Part Number">81-GRM32R71A226KE20L</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GRM32ER71A226KE20L?qs=IjyrXs0Hof%252B8BiTJdBCHXw%3D%3D</field>
+        <field name="Manufacturer_Name">Murata Electronics</field>
+        <field name="Manufacturer_Part_Number">GRM32ER71A226KE20L</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SMM4F5.0A-TR" part="SMM4F5.0A-TR">
+      <docs>https://www.st.com/resource/en/datasheet/smm4f10a.pdf</docs>
+      <fields>
+        <field name="Reference">Z</field>
+        <field name="Value">SMM4F5.0A-TR</field>
+        <field name="Footprint">SMM4F15ATR</field>
+        <field name="Datasheet">https://www.st.com/resource/en/datasheet/smm4f10a.pdf</field>
+        <field name="Description">ESD Suppressors / TVS Diodes 400W HI JCT TMP</field>
+        <field name="Mouser Part Number">511-SMM4F5.0A-TR</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/STMicroelectronics/SMM4F5.0A-TR?qs=5HwTSiuA5HB7K7mI4EswPg%3D%3D</field>
+        <field name="Manufacturer_Name">STMicroelectronics</field>
+        <field name="Manufacturer_Part_Number">SMM4F5.0A-TR</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K_1" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+        <pin num="3" name="K_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SPV1040T" part="SPV1040T">
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">SPV1040T</field>
+        <field name="Footprint">SOP65P640X120-8N</field>
+        <field name="Description">Voltage Regulators - Switching Regulators Hi efficiency solar battery charger</field>
+        <field name="Height">1.2</field>
+        <field name="Mouser Part Number">511-SPV1040T</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/STMicroelectronics/SPV1040T?qs=7qOP6AeGKU1lga8RjcaFUQ%3D%3D</field>
+        <field name="Manufacturer_Name">STMicroelectronics</field>
+        <field name="Manufacturer_Part_Number">SPV1040T</field>
+      </fields>
+      <pins>
+        <pin num="1" name="MPP-SET" type="passive"/>
+        <pin num="2" name="GND" type="passive"/>
+        <pin num="3" name="LX" type="passive"/>
+        <pin num="4" name="VOUT" type="passive"/>
+        <pin num="5" name="VCTRL" type="passive"/>
+        <pin num="6" name="ICTRL_MINUS" type="passive"/>
+        <pin num="7" name="ICTRL_PLUS" type="passive"/>
+        <pin num="8" name="XSHUT" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SRU1038-100Y" part="SRU1038-100Y">
+      <footprints>
+        <fp>IND_BOURNS_SRU1038</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">SRU1038-100Y</field>
+        <field name="Footprint">IND_BOURNS_SRU1038</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="unspecified"/>
+        <pin num="2" name="2" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="STPS120MF" part="STPS120MF">
+      <docs>https://www.st.com/resource/en/datasheet/stps120mf.pdf</docs>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">STPS120MF</field>
+        <field name="Footprint">STPS120MF</field>
+        <field name="Datasheet">https://www.st.com/resource/en/datasheet/stps120mf.pdf</field>
+        <field name="Description">Schottky Diodes &amp; Rectifiers Power Schottky Rec 1A 20V 0.41VF</field>
+        <field name="Mouser Part Number">511-STPS120MF</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/STMicroelectronics/STPS120MF?qs=vV0pr1uq7fBNdZQwvvztWg%3D%3D</field>
+        <field name="Manufacturer_Name">STMicroelectronics</field>
+        <field name="Manufacturer_Part_Number">STPS120MF</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="K_1" type="passive"/>
+        <pin num="3" name="K_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="WSL2010R1100FEA" part="WSL2010R1100FEA">
+      <docs>https://www.vishay.com/docs/30100/wsl.pdf</docs>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">WSL2010R1100FEA</field>
+        <field name="Footprint">RESC5125X89N</field>
+        <field name="Datasheet">https://www.vishay.com/docs/30100/wsl.pdf</field>
+        <field name="Description">Vishay 110m 2010 (5025M) Metal Strip SMD Resistor +/-1% 0.5W - WSL2010R1100FEA</field>
+        <field name="Height">0.889</field>
+        <field name="Mouser Part Number">71-WSL2010R1100FEA</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Vishay-Dale/WSL2010R1100FEA?qs=8hzcSBZN9d%252BMooM1LU7mjg%3D%3D</field>
+        <field name="Manufacturer_Name">Vishay</field>
+        <field name="Manufacturer_Part_Number">WSL2010R1100FEA</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="282837-2">
+      <uri>C:/Users/USER/MyKicadProjectSymbolsAndFootprints/MySymbols/282837-2.lib</uri>
+    </library>
+    <library logical="C2012C0G1H102J060AA">
+      <uri>C:/Users/USER/MyKicadProjectSymbolsAndFootprints/MySymbols/C2012C0G1H102J060AA.lib</uri>
+    </library>
+    <library logical="C2012X7R1C105K125AA">
+      <uri>C:/Users/USER/MyKicadProjectSymbolsAndFootprints/MySymbols/C2012X7R1C105K125AA.lib</uri>
+    </library>
+    <library logical="CMP2512-FX-3903ELF">
+      <uri>C:/Users/USER/MyKicadProjectSymbolsAndFootprints/MySymbols/CMP2512-FX-3903ELF.lib</uri>
+    </library>
+    <library logical="ERA-1AEB102C">
+      <uri>C:/Users/USER/MyKicadProjectSymbolsAndFootprints/MySymbols/ERA-1AEB102C.lib</uri>
+    </library>
+    <library logical="ERJ-UP3F1303V">
+      <uri>C:/Users/USER/MyKicadProjectSymbolsAndFootprints/MySymbols/ERJ-UP3F1303V.lib</uri>
+    </library>
+    <library logical="GRM21BR61C106KE15K">
+      <uri>C:/Users/USER/MyKicadProjectSymbolsAndFootprints/MySymbols/GRM21BR61C106KE15K.lib</uri>
+    </library>
+    <library logical="GRM32ER71A226KE20L">
+      <uri>C:/Users/USER/MyKicadProjectSymbolsAndFootprints/MySymbols/GRM32ER71A226KE20L.lib</uri>
+    </library>
+    <library logical="SMM4F5.0A-TR">
+      <uri>C:/Users/USER/MyKicadProjectSymbolsAndFootprints/MySymbols/SMM4F5.0A-TR.lib</uri>
+    </library>
+    <library logical="SPV1040T">
+      <uri>C:/Users/USER/MyKicadProjectSymbolsAndFootprints/MySymbols/SPV1040T.lib</uri>
+    </library>
+    <library logical="SRU1038-100Y">
+      <uri>C:/Users/USER/MyKicadProjectSymbolsAndFootprints/MySymbols/SRU1038-100Y.lib</uri>
+    </library>
+    <library logical="STPS120MF">
+      <uri>C:/Users/USER/MyKicadProjectSymbolsAndFootprints/MySymbols/STPS120MF.lib</uri>
+    </library>
+    <library logical="WSL2010R1100FEA">
+      <uri>C:/Users/USER/MyKicadProjectSymbolsAndFootprints/MySymbols/WSL2010R1100FEA.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="GND">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="IC1" pin="2" pinfunction="GND" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="U2" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="Z1" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="2" name="Net-(C1-Pad2)">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="L1" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="1" pintype="unspecified"/>
+    </net>
+    <net code="3" name="Net-(C2-Pad1)">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="IC1" pin="1" pinfunction="MPP-SET" pintype="passive"/>
+      <node ref="IC1" pin="8" pinfunction="XSHUT" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+    </net>
+    <net code="4" name="Net-(C3-Pad1)">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="D1" pin="2" pinfunction="K_1" pintype="passive"/>
+      <node ref="D1" pin="3" pinfunction="K_2" pintype="passive"/>
+      <node ref="IC1" pin="4" pinfunction="VOUT" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+    </net>
+    <net code="5" name="Net-(C4-Pad1)">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="IC1" pin="7" pinfunction="ICTRL_PLUS" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="6" name="Net-(C4-Pad2)">
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="IC1" pin="6" pinfunction="ICTRL_MINUS" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+    </net>
+    <net code="7" name="Net-(C5-Pad1)">
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="IC1" pin="5" pinfunction="VCTRL" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+    </net>
+    <net code="8" name="Net-(D1-Pad1)">
+      <node ref="D1" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="IC1" pin="3" pinfunction="LX" pintype="passive"/>
+      <node ref="L1" pin="1" pinfunction="1" pintype="unspecified"/>
+    </net>
+    <net code="9" name="Net-(R3-Pad2)">
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="Z1" pin="1" pinfunction="K_1" pintype="passive"/>
+      <node ref="Z1" pin="3" pinfunction="K_2" pintype="passive"/>
+    </net>
+  </nets>
+</export>
