@@ -19,4 +19,5 @@
   (lib (name "STPS120MF")(type "Legacy")(uri "C:/Users/USER/MyKicadProjectSymbolsAndFootprints/MySymbols/STPS120MF.lib")(options "")(descr ""))
   (lib (name "WSL0603R0510FEA")(type "Legacy")(uri "C:/Users/USER/MyKicadProjectSymbolsAndFootprints/MySymbols/WSL0603R0510FEA.lib")(options "")(descr ""))
   (lib (name "WSL2010R1100FEA")(type "Legacy")(uri "C:/Users/USER/MyKicadProjectSymbolsAndFootprints/MySymbols/WSL2010R1100FEA.lib")(options "")(descr ""))
+  (lib (name "STPS2150A")(type "Legacy")(uri "C:/Users/USER/MyKicadProjectSymbolsAndFootprints/MySymbols/STPS2150A.lib")(options "")(descr ""))
 )
