@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>C:\Users\USER\MyKicadProjects\EPSmppt\MpptDemoBoard\MpptDemoBoard.kicad_sch</source>
-    <date>2/4/2023 7:46:15 AM</date>
+    <date>2/13/2023 12:33:09 PM</date>
     <tool>Eeschema (6.0.10)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -155,27 +155,28 @@
       <tstamps>9609bb9f-a8e3-4d3e-a089-81a824f2da39</tstamps>
     </comp>
     <comp ref="D1">
-      <value>STPS120MF</value>
-      <footprint>myfootprints:STPS120MF</footprint>
-      <datasheet>https://www.st.com/resource/en/datasheet/stps120mf.pdf</datasheet>
+      <value>STPS2150A</value>
+      <footprint>myfootprints:STPS2150A</footprint>
+      <datasheet>http://www.st.com/web/en/resource/technical/document/datasheet/CD00003322.pdf</datasheet>
       <fields>
-        <field name="Description">Schottky Diodes &amp; Rectifiers Power Schottky Rec 1A 20V 0.41VF</field>
+        <field name="Description">STPS2150A, Schottky Diode,  2A max, 150V, 2-Pin, SMA</field>
+        <field name="Height">2.65</field>
         <field name="Manufacturer_Name">STMicroelectronics</field>
-        <field name="Manufacturer_Part_Number">STPS120MF</field>
-        <field name="Mouser Part Number">511-STPS120MF</field>
-        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/STMicroelectronics/STPS120MF?qs=vV0pr1uq7fBNdZQwvvztWg%3D%3D</field>
+        <field name="Manufacturer_Part_Number">STPS2150A</field>
+        <field name="Mouser Part Number">511-STPS2150A</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/STMicroelectronics/STPS2150A?qs=JV7lzlMm3yID2fZto%2F5JCQ%3D%3D</field>
       </fields>
-      <libsource lib="STPS120MF" part="STPS120MF" description=""/>
-      <property name="Description" value="Schottky Diodes &amp; Rectifiers Power Schottky Rec 1A 20V 0.41VF"/>
-      <property name="Height" value=""/>
-      <property name="Mouser Part Number" value="511-STPS120MF"/>
-      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/STMicroelectronics/STPS120MF?qs=vV0pr1uq7fBNdZQwvvztWg%3D%3D"/>
+      <libsource lib="STPS2150A" part="STPS2150A" description=""/>
+      <property name="Description" value="STPS2150A, Schottky Diode,  2A max, 150V, 2-Pin, SMA"/>
+      <property name="Height" value="2.65"/>
+      <property name="Mouser Part Number" value="511-STPS2150A"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/STMicroelectronics/STPS2150A?qs=JV7lzlMm3yID2fZto%2F5JCQ%3D%3D"/>
       <property name="Manufacturer_Name" value="STMicroelectronics"/>
-      <property name="Manufacturer_Part_Number" value="STPS120MF"/>
+      <property name="Manufacturer_Part_Number" value="STPS2150A"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MpptDemoBoard.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>c5ef3ad7-975e-4299-aab8-a87cbd45e466</tstamps>
+      <tstamps>59268aa9-8315-40b4-96a6-9d7eab932b45</tstamps>
     </comp>
     <comp ref="IC1">
       <value>SPV1040T</value>
@@ -615,23 +616,23 @@
         <pin num="2" name="2" type="unspecified"/>
       </pins>
     </libpart>
-    <libpart lib="STPS120MF" part="STPS120MF">
-      <docs>https://www.st.com/resource/en/datasheet/stps120mf.pdf</docs>
+    <libpart lib="STPS2150A" part="STPS2150A">
+      <docs>http://www.st.com/web/en/resource/technical/document/datasheet/CD00003322.pdf</docs>
       <fields>
         <field name="Reference">D</field>
-        <field name="Value">STPS120MF</field>
-        <field name="Footprint">STPS120MF</field>
-        <field name="Datasheet">https://www.st.com/resource/en/datasheet/stps120mf.pdf</field>
-        <field name="Description">Schottky Diodes &amp; Rectifiers Power Schottky Rec 1A 20V 0.41VF</field>
-        <field name="Mouser Part Number">511-STPS120MF</field>
-        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/STMicroelectronics/STPS120MF?qs=vV0pr1uq7fBNdZQwvvztWg%3D%3D</field>
+        <field name="Value">STPS2150A</field>
+        <field name="Footprint">DIOM5126X265N</field>
+        <field name="Datasheet">http://www.st.com/web/en/resource/technical/document/datasheet/CD00003322.pdf</field>
+        <field name="Description">STPS2150A, Schottky Diode,  2A max, 150V, 2-Pin, SMA</field>
+        <field name="Height">2.65</field>
+        <field name="Mouser Part Number">511-STPS2150A</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/STMicroelectronics/STPS2150A?qs=JV7lzlMm3yID2fZto%2F5JCQ%3D%3D</field>
         <field name="Manufacturer_Name">STMicroelectronics</field>
-        <field name="Manufacturer_Part_Number">STPS120MF</field>
+        <field name="Manufacturer_Part_Number">STPS2150A</field>
       </fields>
       <pins>
-        <pin num="1" name="A" type="passive"/>
-        <pin num="2" name="K_1" type="passive"/>
-        <pin num="3" name="K_2" type="passive"/>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
       </pins>
     </libpart>
     <libpart lib="WSL2010R1100FEA" part="WSL2010R1100FEA">
@@ -688,8 +689,8 @@
     <library logical="SRU1038-100Y">
       <uri>C:/Users/USER/MyKicadProjectSymbolsAndFootprints/MySymbols/SRU1038-100Y.lib</uri>
     </library>
-    <library logical="STPS120MF">
-      <uri>C:/Users/USER/MyKicadProjectSymbolsAndFootprints/MySymbols/STPS120MF.lib</uri>
+    <library logical="STPS2150A">
+      <uri>C:/Users/USER/MyKicadProjectSymbolsAndFootprints/MySymbols/STPS2150A.lib</uri>
     </library>
     <library logical="WSL2010R1100FEA">
       <uri>C:/Users/USER/MyKicadProjectSymbolsAndFootprints/MySymbols/WSL2010R1100FEA.lib</uri>
@@ -721,8 +722,7 @@
     </net>
     <net code="4" name="Net-(C3-Pad1)">
       <node ref="C3" pin="1" pintype="passive"/>
-      <node ref="D1" pin="2" pinfunction="K_1" pintype="passive"/>
-      <node ref="D1" pin="3" pinfunction="K_2" pintype="passive"/>
+      <node ref="D1" pin="1" pintype="passive"/>
       <node ref="IC1" pin="4" pinfunction="VOUT" pintype="passive"/>
       <node ref="R2" pin="2" pintype="passive"/>
       <node ref="R4" pin="1" pintype="passive"/>
@@ -743,8 +743,8 @@
       <node ref="R5" pin="2" pintype="passive"/>
       <node ref="R6" pin="1" pintype="passive"/>
     </net>
-    <net code="8" name="Net-(D1-Pad1)">
-      <node ref="D1" pin="1" pinfunction="A" pintype="passive"/>
+    <net code="8" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2" pintype="passive"/>
       <node ref="IC1" pin="3" pinfunction="LX" pintype="passive"/>
       <node ref="L1" pin="1" pinfunction="1" pintype="unspecified"/>
     </net>
